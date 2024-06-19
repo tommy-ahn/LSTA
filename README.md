@@ -11,5 +11,5 @@ Temporal action detection (TAD) is one of the most active research areas in comp
 
 
 **Training and Evaluation**
-We refer to <a herf='https://github.com/happyharrycn/actionformer_release'>ActionFormer</a> repository to download and prepare data.
+We refer to [ActionFormer](https://github.com/happyharrycn/actionformer_release) repository to download and prepare data.
 
